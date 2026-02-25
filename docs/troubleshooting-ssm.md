@@ -136,15 +136,5 @@ Do not paste IMDS credential output into tickets or chats. Treat `AccessKeyId`, 
 
 ````
 
-### Add it to your repo + push
-From repo root:
-
-```bash
-mkdir -p docs
-nano docs/troubleshooting-ssm.md  # or vim/code
-git add docs/troubleshooting-ssm.md
-git commit -m "Add SSM troubleshooting guide"
-git push
-````
 
 
