@@ -1,6 +1,4 @@
-Here’s a ready-to-paste `docs/troubleshooting-ssm.md` that matches *your* setup (SSM via VPC endpoints + Private DNS). Copy this into a new file, commit, push.
 
-````markdown
 # Troubleshooting SSM (Session Manager) Connectivity
 
 This repo manages EC2 instances using **AWS Systems Manager (SSM Session Manager)**.  
@@ -149,6 +147,4 @@ git commit -m "Add SSM troubleshooting guide"
 git push
 ````
 
-If you want, I can also give you a tiny README link line like:
 
-> “SSM troubleshooting guide: `docs/troubleshooting-ssm.md`”
